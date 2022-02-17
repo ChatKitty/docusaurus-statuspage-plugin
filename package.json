@@ -1,0 +1,20 @@
+{
+  "name": "docusaurus-statuspage-plugin",
+  "version": "0.0.1",
+  "description": "Plugin to add a Statuspage embedded script html tag to your docusaurus v2 site.",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ChatKitty/docusaurus-statuspage-plugin.git"
+  },
+  "keywords": [
+    "docusaurus",
+    "statuspage"
+  ],
+  "author": "ChatKitty",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ChatKitty/docusaurus-statuspage-plugin/issues"
+  },
+  "homepage": "https://github.com/ChatKitty/docusaurus-statuspage-plugin"
+}
